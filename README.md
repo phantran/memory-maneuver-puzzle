@@ -40,8 +40,9 @@ The command above uses the strategy 2 with the file input mode.
 
 ### Modification
 
-Extend the Strategy class to add a new solution of the puzzle that you are solving
-Extend the DataSource class to add a new type of input source for the puzzle that you are solving
+Extend the Strategy class to add a new solution of the puzzle that you are solving.
+
+Extend the DataSource class to add a new type of input source for the puzzle that you are solving.
 
 ### Unit test
 
