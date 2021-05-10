@@ -1,5 +1,6 @@
 ## Advent of Code - Memory Maneuver Puzzle
 
+Feel free to use this source code as a template for your coding challenges or puzzles solving 
 
 ### Link to puzzle 
 https://adventofcode.com/2018/day/8
